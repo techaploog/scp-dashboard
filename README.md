@@ -30,15 +30,15 @@ Project is created with:
    git clone https://github.com/techaploog/scp-dashboard.git
    ```
 2. Initial and download all dependencies
-  ```
-  npm run install
-  ```
+   ```
+   npm run install
+   ```
 3. Run server
-  ```
-  npm run deploy
-  ```
+   ```
+   npm run deploy
+   ```
 4. Open browser and browse to `http://localhost:8000`
-  __ (linux and macOS need to update `scripts` in `package.json` before `npm run`) __
+  __(linux and macOS need to update `scripts` in `package.json` before `npm run`)__
 
 ## Author
 **Chaikrit Techaploog**
