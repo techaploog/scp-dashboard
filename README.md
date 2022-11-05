@@ -6,7 +6,7 @@ This project is a personal case study based on my own experiences at Parts Logis
 
 Hopefully, this project will help suppliers who receives parts orders via the SCP system to have some ideas about their daily order managements.
 
-** This project is open to modify and use. **
+** This project is open to modify and use with zero cost. **
 
 ## Features
 - Upload daily order `.csv` and load into database.
